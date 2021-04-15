@@ -64,7 +64,7 @@ Predictions on the test data were quite descent, here are some examples:
 
 ![preds](https://github.com/Krystana/Image-segmentation-on-CT-scans/blob/main/Bildschirmfoto%202021-03-28%20um%2017.32.14.png)
 
-Using only 19 of 20 patients and a smaller train-test-split, the predicted masks suffered obviously but the original slices merged with the predicted masks and stacked back together as animated gif still give a nice impression of the model performance: 
+Using only 19 of 20 patients, images scaled to 128 * 128 pixels and a smaller train-test-split, the predicted masks suffered obviously but the original slices merged with the predicted masks and stacked back together as animated gif still give a nice impression of the model performance: 
 
 ![animated_gif_p2](https://github.com/Krystana/Image-segmentation-on-CT-scans/blob/main/2_animated_mask_patient2.gif)
 
