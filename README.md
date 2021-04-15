@@ -29,7 +29,7 @@ The data is structured in folders for each patient, containing subdirectories fo
 
 Stacking the 2D scans back together, a complete patient scan of the original size looks like this: 
 
-![me] (https://github.com/Krystana/Image-segmentation-on-CT-scans/blob/main/patient_scan_animated.gif)
+![me](https://github.com/Krystana/Image-segmentation-on-CT-scans/blob/main/patient_scan_animated.gif)
 
 The workflow: 
 
