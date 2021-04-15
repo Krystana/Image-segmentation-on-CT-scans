@@ -58,4 +58,14 @@ With a training time on google colab of about 1h, a learning rate of  0.0001, 10
 
 ![scrrenshot](https://github.com/Krystana/Image-segmentation-on-CT-scans/blob/main/Bildschirmfoto%202021-03-29%20um%2017.53.59.png)
 
+Predictions on the test data were quite descent, here are some examples: 
+
+![preds](https://github.com/Krystana/Image-segmentation-on-CT-scans/blob/main/Bildschirmfoto%202021-03-28%20um%2017.30.45.png)
+
+![preds](https://github.com/Krystana/Image-segmentation-on-CT-scans/blob/main/Bildschirmfoto%202021-03-28%20um%2017.32.14.png)
+
+Using only 19 of 20 patients and a smaller train-test-split, the predicted masks suffered obviously but the original slices merged with the predicted masks and stacked back together as animated gif still give a nice impression of the model performance: 
+
+
+
 future work: 
