@@ -43,9 +43,16 @@ To be able to predict on a complete patient's scan I later decided to cut off a 
 Train and test data was saved and uploaded to google drive to be able to train the model on a google colab GPU. The model was then saved and downloaded to make predictions on the test data and the complete patient scan. 
 
 
-
 The model: 
 
+The model I created is a U-net architecture neural network with a total of 23 convolutional layers. I added dropout layers and used a selu-activation function with a lecun-normal activation to normlalize neuron activation in the sense of a "self-normalizing" neural network. 
+
 results: 
+
+Best result were achieved using the complete dataset with a train-test-split of 80/20 and the images downscaled to 94 * 94 pixels. 
+With a training time on google colab of about 1h, a learning rate of  0.0001, 1000 epochs and a batch size of 100 learining rates looked like this: 
+
+
+
 
 future work: 
