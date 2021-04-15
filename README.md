@@ -52,6 +52,7 @@ results:
 Best result were achieved using the complete dataset with a train-test-split of 80/20 and the images downscaled to 94 * 94 pixels. 
 With a training time on google colab of about 1h, a learning rate of  0.0001, 1000 epochs and a batch size of 100 learining rates looked like this: 
 
+![screenshot](https://github.com/Krystana/Image-segmentation-on-CT-scans/blob/main/Bildschirmfoto%202021-03-29%20um%2017.53.40.png)
 
 
 
