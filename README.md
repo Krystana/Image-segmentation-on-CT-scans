@@ -54,6 +54,8 @@ With a training time on google colab of about 1h, a learning rate of  0.0001, 10
 
 ![screenshot](https://github.com/Krystana/Image-segmentation-on-CT-scans/blob/main/Bildschirmfoto%202021-03-29%20um%2017.53.40.png)
 
+![screenshot](https://github.com/Krystana/Image-segmentation-on-CT-scans/blob/main/Bildschirmfoto%202021-03-29%20um%2017.53.49.png)
 
+![scrrenshot](https://github.com/Krystana/Image-segmentation-on-CT-scans/blob/main/Bildschirmfoto%202021-03-29%20um%2017.53.59.png)
 
 future work: 
